@@ -1,18 +1,28 @@
-                                                  
-                                                  
-                                                  
-                        .cccccccc.                
-                  .,,,;;cc:cccccc:;;,.            
-                .cdxo;..,::cccc::,..;l.           
-               ,do:,,:c:coxxdllll:;,';:,.         
-             .cl;.,oxxc'.,cc,.';;;'...oNc         
-             ;Oc..cxxxc'.,c;..;lll;...cO;         
-           .;;',:ldxxxdoldxc..;lll:'...'c,        
-           ;c..cxxxxkxxkxxxc'.;lll:'','.cdc.      
-         .c;.;odxxxxxxxxxxxd;.,cll;.,l:.'dNc      
-        .:,''ccoxkxxkxxxxxxx:..,:;'.:xc..oNc      
-      .lc,.'lc':dxxxkxxxxxxxol,...',lx:..dNc      
-     .:,',coxoc;;ccccoxxxxxxxxo:::oxxo,.cdc.      
-  .;':;.'oxxxxxc''''';cccoxxxxxxxxxxxc..oc        
-,do:'..,:llllll:;;;;;;,..,;:lllllllll;..oc        
-cNo.....................................oc        
+
+
+
+
+'xOkxxxxxdc.    .od.
+;XKc....,xXO'   .k0'
+;XK,     ,KX:   .k0'  ,d;.      .:o,   .:oxxxxo;.
+;XXo;;;;lk0l.    ',.  '0Kk;     :XO.  'OKd;'':kXx.
+;XNOddddk0Oc.          :KWO.   ,0K;  .xNo     .xNo.
+;XK,     .kNd.          oXXd. .xXc   '0X;      cNk.
+;XK,      lN0'          .;xXc.lXd.   .kNc      oWx.
+;XK:....'c0Xo.            '0KkXO.     :K0c....oK0,
+'k0kxxxxkxo,               ;O0k,       'okkxxkkl.
+......                     .            ....
+
+
+
+
+.:dxkkkx;     ,odxkkkxl'
+:00o;'',:'     :o:,'';oKXc
+cXO'                    lNO.
+.ONd:odddl,.            .xNd.
+,0WXkc;;ckXk'          ,kKo.
+'0MO.    .xWd.       ,x0x,
+.xWx.     oWk.     'd0x,
+,0Kc.   ;0Xc    'dX0c.....
+'dOkxdkOx;    .dXX0kkkkkko.
+.',,'.       ...........
